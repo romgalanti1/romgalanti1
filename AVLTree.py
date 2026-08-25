@@ -1,17 +1,9 @@
-# id1: 212068506
-# name1: Rom Galanti
-# username1:Romgalanti
-# id2: 212354294
-# name2: Hadar Haimovici
-# username2: haimovici
-
 
 """A class representing a node in an AVL tree"""
 
 
 class AVLNode(object):
-    """Constructor, you are allowed to add more fields.
-
+    """
     @type key: int
     @param key: key of your node
     @type value: string
@@ -54,8 +46,6 @@ A class implementing an AVL tree.
 
 class AVLTree(object):
     """
-    Constructor, you are allowed to add more fields.
-
     @type is_avl: boolean
     @param is_avl: If True then tree is AVL, otherwise it is just a "regular" binary search tree, without rotations.
     """
