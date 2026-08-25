@@ -8,3 +8,15 @@ I'm a **Computer Science Student at Tel Aviv University** passionate about softw
 - 📬 Feel free to reach out or explore my repositories!
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/romgalanti1/romgalanti1/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/romgalanti1/romgalanti1/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
