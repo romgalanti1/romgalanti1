@@ -1,6 +1,6 @@
 # Hi there, I'm Rom! 👋
 
-I'm a **Computer Science Student** passionate about software development, data structures, and building efficient algorithms. 
+I'm a **Computer Science Student at Tel Aviv University** passionate about software development, data structures, and building efficient algorithms. 
 
 - 🎓 Currently pursuing my B.Sc. in Computer Science (2nd year).
 - 💻 Passionate about **Python, Java, and Object-Oriented Design**.
