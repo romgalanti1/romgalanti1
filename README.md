@@ -10,8 +10,8 @@ I'm a **Computer Science Student at Tel Aviv University** passionate about softw
 
 ## 🚀 Featured Repositories
 
-- 🌳 **[AVL-Tree-Implementation](./AVL-Tree-Implementation)** – A self-balancing AVL Tree & BST implementation in Python with dynamic rotations and iterative in-order traversal.
-- 🧩 **[LeetCode-Solutions](./LeetCode-Solutions)** – Active repository tracking algorithmic problem solving across various data structures and complexity levels.
+- 🌳 **[AVL-Tree-Implementation](/AVL-Tree-Implementation)** – A self-balancing AVL Tree & BST implementation in Python with dynamic rotations and iterative in-order traversal.
+- 🧩 **[LeetCode-Solutions](/LeetCode-Solutions)** – Active repository tracking algorithmic problem solving across various data structures and complexity levels.
 
 ---
 
