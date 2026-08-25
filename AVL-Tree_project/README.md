@@ -19,12 +19,12 @@ This project was developed with a strong focus on algorithmic efficiency, pointe
 
 ## ⏱️ Complexity Analysis
 
-| Operation  | AVL Tree   | Standard BST (Worst Case) | Space Complexity |
-| **Search** | `O(log n)` | `O(n)` | `O(1)` |
-| **Insert** | `O(log n)` | `O(n)` | `O(1)` |
-| **Delete** | `O(log n)` | `O(n)` | `O(1)` |
-| **Traversal (`avl_to_list`)** | `O(n)` | `O(n)` | `O(n)` |
-
+| Operation | AVL Tree | Standard BST (Worst Case) | Space Complexity |
+|---|---|---|---|
+| **Search** | $O(\log n)$ | $O(n)$ | $O(1)$ |
+| **Insert** | $O(\log n)$ | $O(n)$ | $O(1)$ |
+| **Delete** | $O(\log n)$ | $O(n)$ | $O(1)$ |
+| **Traversal (`avl_to_list`)** | $O(n)$ | $O(n)$ | $O(n)$ |
 ---
 
 ## 💻 Usage Example
