@@ -11,7 +11,7 @@ I'm a **Computer Science Student at Tel Aviv University** passionate about softw
 ## 🚀 Featured Repositories
 
 - 🌳 **[AVL-Tree-Implementation](https://github.com/romgalanti1/AVL-Tree-Implementation)** – A self-balancing AVL Tree & BST implementation in Python with dynamic rotations and iterative in-order traversal.
-- 🧩 **[LeetCode-Solutions](https://github.com/romgalanti1/LeetCode-Solutions)** – Active repository tracking algorithmic problem solving across various data structures and complexity levels.
+- 🧩 **[LeetCode-Solutions](https://github.com/romgalanti1/LeetCode_Solutions)** – Active repository tracking algorithmic problem solving across various data structures and complexity levels.
 
 ---
 
