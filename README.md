@@ -19,11 +19,3 @@ I'm a **Computer Science Student at Tel Aviv University** passionate about softw
 
 - 💼 **LinkedIn:** [www.linkedin.com/in/rom-galanti-597427413]
 - ✉️ **Email:** rom.galanti@gmail.com
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1957-delete-characters-to-make-fancy-string](https://github.com/romgalanti1/romgalanti1/tree/master/1957-delete-characters-to-make-fancy-string) |
-<!---LeetCode Topics End-->
